@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "name": "Faisal",
+      "marks": {
+        "math": 85,
+        "english": 78,
+        "computer": 92
+      }
+    },
+    {
+      "id": 2,
+      "name": "Pabon",
+      "marks": {
+        "math": 72,
+        "english": 80,
+        "computer": 68
+      }
+    },
+    {
+      "id": 3,
+      "name": "Shamim",
+      "marks": {
+        "math": 91,
+        "english": 88,
+        "computer": 94
+      }
+    },
+    {
+      "id": 4,
+      "name": "Shudha",
+      "marks": {
+        "math": 65,
+        "english": 70,
+        "computer": 60
+      }
+    },
+    {
+      "id": 5,
+      "name": "Jhumur",
+      "marks": {
+        "math": 90,
+        "english": 92,
+        "computer": 88
+      }
+    }
+  ]
+  

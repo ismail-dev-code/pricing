@@ -4,28 +4,28 @@ import { Line, LineChart, XAxis, YAxis } from 'recharts';
 const resultsData = [
     {
       id: 1,
-      name: "Amina Rahman",
+      name: "ismail hossain",
       math: 85,
       english: 78,
       science: 91
     },
     {
       id: 2,
-      name: "Rafiul Islam",
+      name: "hafiz al asad",
       math: 72,
       english: 80,
       science: 67
     },
     {
       id: 3,
-      name: "Tania Akter",
+      name: "Jumur Akter",
       math: 93,
       english: 88,
       science: 95
     },
     {
       id: 4,
-      name: "Farhan Hossain",
+      name: "yeasin shamim",
       math: 64,
       english: 70,
       science: 59
