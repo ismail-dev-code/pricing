@@ -15,7 +15,7 @@ const PricingCard = ({pricing}) => {
             <div className='bg-amber-400 flex-1 p-4 rounded-2xl mt-3'>
                 <p>{description}</p>
             {
-                features.map((feature, index)=> <Feature key={index} feature={feature}></Feature>)
+                features.map((feature, index)=> <Feature key={index+feature} feature={feature}></Feature>)
             }
             </div>
             <button className='btn w-full mt-4'>Subscribe</button>

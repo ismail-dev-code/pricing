@@ -29,6 +29,7 @@
     {
       "id": 3,
       "name": "Fitness Plus",
+      "popular": true,
       "price": "$49/month",
       "description": "Best suited for regular gym-goers who enjoy group sessions and progress tracking.",
       "features": [
@@ -62,6 +63,7 @@
     {
       "id": 5,
       "name": "Pro Athlete",
+      "popular": true,
       "price": "$129/month",
       "description": "Premium experience for competitive athletes with full access, coaching, and recovery tools.",
       "features": [
