@@ -1,0 +1,79 @@
+[
+    {
+      "id": 1,
+      "name": "Day Pass",
+      "price": "$10/day",
+      "description": "Perfect for travelers or casual visitors who want a one-time workout session.",
+      "features": [
+        "Access to gym equipment for one day",
+        "Locker room access",
+        "Free Wi-Fi",
+        "Support from on-floor trainers"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Starter Plan",
+      "price": "$29/month",
+      "description": "Great for those just starting their fitness journey with access to essential facilities.",
+      "features": [
+        "Full access to gym equipment",
+        "Locker room facilities",
+        "1 free personal training session",
+        "Flexible workout hours",
+        "Free Wi-Fi",
+        "Access to mobile app for workout tracking",
+        "Hydration station access"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Fitness Plus",
+      "price": "$49/month",
+      "description": "Best suited for regular gym-goers who enjoy group sessions and progress tracking.",
+      "features": [
+        "All Starter Plan features",
+        "Unlimited group fitness classes",
+        "Weekly progress check-ins",
+        "Special pricing on protein & gear",
+        "Body composition analysis",
+        "Guest pass for a friend (2x/month)",
+        "Access to indoor cycling studio",
+        "Locker reservation option"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Elite Access",
+      "price": "$79/month",
+      "description": "Designed for athletes and advanced users who want full access and personal guidance.",
+      "features": [
+        "All Fitness Plus features",
+        "Unlimited personal training sessions",
+        "Custom diet & meal planning",
+        "24/7 access + Sauna & Recovery zone",
+        "Priority booking for classes",
+        "Monthly massage session",
+        "Private locker with towel service",
+        "Early access to new programs",
+        "Exclusive elite-only events"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Pro Athlete",
+      "price": "$129/month",
+      "description": "Premium experience for competitive athletes with full access, coaching, and recovery tools.",
+      "features": [
+        "All Elite Access features",
+        "Dedicated performance coach",
+        "Sports physiotherapy sessions",
+        "Cryotherapy and red light therapy",
+        "Full-body diagnostics every month",
+        "VIP lounge access",
+        "Private shower suite",
+        "Priority customer support"
+      ]
+    }
+  ]
+  

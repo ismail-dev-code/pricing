@@ -22,7 +22,7 @@ const DaisyNav = () => {
         <li><a>Products</a></li>
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl">Shop<span className='text-yellow-500'>dada</span></a>
+    <a className="btn btn-ghost text-xl">Gym<span className='text-yellow-500'>Dekho</span></a>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
